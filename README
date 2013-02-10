@@ -1,1 +1,16 @@
 Sample Input
+1 11 5
+2 6 7
+3 13 9
+12 7 16
+14 3 25
+19 18 22
+23 13 29
+24 4 28
+(BLANK SPACE)
+
+Sample Output
+
+1 11 3 13 9 0 12 7 16 3 19 18 22 3 23 13 29 0
+
+Note : In case of Input , user has to give a "BLANK SPACE" at the end to indicate the last input .
