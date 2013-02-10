@@ -15,7 +15,7 @@ int main(){
 
         getline(cin, line);
 
-        if(line.empty())
+        if(line.empty()) // to indicate the end of input
                 break;
 
         istringstream iss(line);
