@@ -7,9 +7,7 @@ def main():
 
 def transform_input():
   output=[0]* 10000
-  #print len(output)
   output[3]=10
-  #print output[3]
   initial_x=0
   final_x=0
   
